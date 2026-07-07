@@ -49,9 +49,10 @@ da.print_items()
 
 da.append(4)
 
+da.append("dinesh")
+
 da.print_items()
 
-print(f"current length of array is {da.n} and current capacity is {da.capacity}")
 
 print(da.get_item(4))
 print(da.get_item(5))
