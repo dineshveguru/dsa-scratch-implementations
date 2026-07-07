@@ -1,6 +1,6 @@
 # DSA - Scratch Implementations
 
-<img src="Static/unnamed.webp" style="width: 100%;height: 20vh;object-fit: cover">
+<img src="Static/unnamed.webp">
 
 This repository is a scratchpad for implementing classic data structures and algorithms from first principles in Python.
 
